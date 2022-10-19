@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description>Dejar todos los campos en blanco para que me de error</description>
-   <name>Actualizar el perfil con todo en blanco</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>364b5723-01b9-4b85-9724-0ad077bb17c1</testCaseGuid>
-</TestCaseEntity>
